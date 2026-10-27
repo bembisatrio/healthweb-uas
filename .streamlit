@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#2E7D32"         # Warna utama (Hijau Medis)
+backgroundColor = "#F1F8E9"     # Warna latar belakang web (Hijau sangat muda/bersih)
+secondaryBackgroundColor = "#DCEDC8" # Warna latar belakang sidebar/kotak input
+textColor = "#1B5E20"           # Warna teks utama
+font = "sans serif"
